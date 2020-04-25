@@ -1,9 +1,11 @@
-# YTUsername
-Learn how good your YouTube username is!
+# Username
+
+Learn how good your YouTube or Instagram username is!
 <br>
-Not to be taken *that* seriously.
+Not to be taken _that_ seriously.
 
 # How to install:
+
 `git clone github.com/RiversideRocks/YTInstaller.git`
 
 You can run this on a website that runs PHP (such as a LAMP server).
