@@ -8,6 +8,8 @@ Not to be taken _that_ seriously.
 
 `git clone github.com/RiversideRocks/YTInstaller.git`
 
+Or just mark the shell script here as executable and run that.
+
 You can run this on a website that runs PHP (such as a LAMP server).
 <br>
 <br>
