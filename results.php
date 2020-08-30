@@ -147,7 +147,7 @@ echo "<h1><i class=\"fas fa-info-circle\"></i>Here are some tips:</h1><br><br>";
 
   echo "<i class=\"fas fa-check-circle\"></i>Avoid using Studios in your name.<br><br>";
 
-  echo "<i class=\"fas fa-check-circle\"></i>Avoid using Prodcutions in your name. It doesn't really add to your name because every video is a production.<br><br>";
+  echo "<i class=\"fas fa-check-circle\"></i>Avoid using Productions in your name. It doesn't really add to your name because every video is a production.<br><br>";
 
   echo "<i class=\"fas fa-check-circle\"></i>Avoid using numbers in your name. YouTube does not require a unique username, so numbers are not needed.<br><br>";
 
